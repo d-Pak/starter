@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/CardView_Template"
+                                    style="@style/CardView"
+                                    app:cardCornerRadius="11dp"
+                                    android:alpha="1">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/CardBackground"
+        android:elevation="7dp"
+        android:layout_marginBottom="5dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@android:drawable/ic_menu_delete"
+            android:layout_below="@+id/CardView_Template_ActivityNotes"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="16dp"
+            android:id="@+id/CardView_Template_Delete_Button"
+            android:background="@color/CardBackground"
+            android:padding="10dp"/>
+
+        <TextView
+            android:text="Activity Notes Show Up Here "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/CardView_Template_ActivityNotes"
+            android:textColor="@color/cardview_dark_background"
+            android:paddingTop="5dp"
+            android:paddingBottom="15dp"
+            android:layout_below="@+id/CardView_Template_ActivityName"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:text="Activity Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/CardView_Template_ActivityName"
+            android:textColor="@color/CardFontColor"
+            android:gravity="center_vertical"
+            android:foregroundGravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingBottom="20dp"
+            android:paddingTop="5dp"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@android:drawable/ic_menu_add"
+            android:id="@+id/CardView_Template_Add_Occurence_Button"
+            android:background="@color/CardBackground"
+            android:padding="10dp"
+
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignBottom="@+id/CardView_Template_Delete_Button" />
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

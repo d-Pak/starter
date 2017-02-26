@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="BG_Black">#000000</color>
+    <color name="Text_White">#ffffff</color>
+    <color name="Text_Blue">#9cc3fa</color>
+    <color name="FABColor">#42a5f5</color>
+    <color name="HintAndTextInput">#cc3600</color>
+    <color name="CardBackground">#deb35a</color>
+    <color name="CardFontColor">#002f2f</color>
+</resources>

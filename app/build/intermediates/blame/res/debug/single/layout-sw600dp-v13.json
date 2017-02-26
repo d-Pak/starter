@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

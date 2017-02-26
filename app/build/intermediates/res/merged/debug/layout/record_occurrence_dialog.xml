@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#eee6a7">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RecordOccurence_Dialog_EnterNotes"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/RecordOccurence_Hint_Notes"
+        android:textColorHint="#ff3493"
+        android:textColor="@color/colorAccent"
+        android:inputType="textCapWords"
+        android:textAlignment="center"
+        android:typeface="monospace"
+        android:fontFamily="sans-serif" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="The default time for this occurrence will be this instant."
+        android:id="@+id/textView"
+        android:layout_below="@+id/RecordOccurence_Dialog_EnterNotes"
+        android:layout_centerHorizontal="true"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:textColor="#5daef4" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/RecordOccurence_ChangeTIme_Button"
+        android:id="@+id/button"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:elevation="14dp"
+        style="@style/Widget.AppCompat.Button"
+        android:background="@color/cardview_shadow_start_color" />
+
+</RelativeLayout>

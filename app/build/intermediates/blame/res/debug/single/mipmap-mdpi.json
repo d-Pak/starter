@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/d-pak/AndroidProjects/BuildMillion/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/iamanidiot/AndroidProjects/BuildMillion/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Activities_FAB" type="id">Activities_FAB</item>
+    <item name="Add_Activity_Title" type="id">Add_Activity_Title</item>
+    <item name="Add_Activity_EnterText_Activity_Name" type="id">
+        Add_Activity_EnterText_Activity_Name
+    </item>
+    <item name="activity_add_new_Button_Done" type="id">activity_add_new_Button_Done</item>
+    <item name="CardView_Template_CreatedDate" type="id"/>
+</resources>

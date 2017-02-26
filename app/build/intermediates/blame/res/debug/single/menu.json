@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/menu/activity_home_screen_drawer.xml",
+        "source": "/home/iamanidiot/AndroidProjects/BuildMillion/app/src/main/res/menu/activity_home_screen_drawer.xml"
+    },
+    {
+        "merged": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/menu/activity_home_screen_drawer.xml",
+        "source": "/home/d-pak/AndroidProjects/BuildMillion/app/src/main/res/menu/activity_home_screen_drawer.xml"
+    },
+    {
+        "merged": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/menu/home_screen.xml",
+        "source": "/home/d-pak/AndroidProjects/BuildMillion/app/src/main/res/menu/home_screen.xml"
+    },
+    {
+        "merged": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/menu/home_screen.xml",
+        "source": "/home/iamanidiot/AndroidProjects/BuildMillion/app/src/main/res/menu/home_screen.xml"
+    }
+]

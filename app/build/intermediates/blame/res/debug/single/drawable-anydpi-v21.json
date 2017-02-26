@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/iamanidiot/AndroidProjects/BuildMillion/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/d-pak/AndroidProjects/BuildMillion/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

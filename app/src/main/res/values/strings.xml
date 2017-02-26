@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Build Million</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Activities_Title">Activities</string>
+    <string name="Add_Activity_Title">Place to add a new Activity</string>
+    <string name="Add_Activity_EnterText_Activity_Name">Enter Activity Name</string>
+    <string name="activity_add_new_Button_Done">Done!</string>
+    <string name="activity_add_new_Button_Back">Back</string>
+    <string name="Add_Activity_EnterText_Activity_Notes">Enter ant description for your Understanding</string>
+    <string name="Activities_No_Activity_Text">You don\'t seem to have even one Activity to track. That is very bad. Start adding activity Right away.</string>
+    <string name="AboutMe_Title_dInfinity">dInfinity Tech</string>
+    <string name="AboutMe_aboutMe">This is an app that I have thought of making for a long time.\\n The reason I decided to make this app is becaue of not finding some personal tracker to my taste and needs.</string>
+    <string name="RecordOccurence_Hint_Notes">Enter any notes you want to add (Optional)</string>
+    <string name="ActivityBase_Actitivy_CreatedDate">Created Date:</string>
+    <string name="RecordOccurence_ChangeTIme_Button">Tap here to change time</string>
+</resources>
